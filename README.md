@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 아파트 관리 프로그램 </h2>  
-        ![Alt text](imagee/1.png)
+    <img src="imagee/1.png">
 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 주제 : gui로 만든 아파트 관리 프로그램 <br><br>
       기능 : 사용자모드 (공지사항 확인, 차량 등록, 청소일정 확인 등)<br>
