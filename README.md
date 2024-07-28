@@ -1,19 +1,8 @@
-<style>
-        .image-container {
-            display: flex;
-        }
-        .image-container img {
-            margin-right: 10px; /* 이미지 사이의 간격을 조절합니다 */
-        }
-</style>
-
-<div align= "center">
+_<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Apartment%20GUI%20Project&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
-     <div class="image-container">
-        <img src="image/1.png" width="300" height="200" alt="첫 번째 이미지">
-        <img src="image/3.png" width="300" height="200" alt="두 번째 이미지">
-    </div>
+       <img src="image/1.png" width="300" height="200" style="display: inline-block; margin-right: 10px;" alt="첫 번째 이미지">
+    <img src="image/3.png" width="300" height="200" style="display: inline-block;" alt="두 번째 이미지">
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 아파트 관리 프로그램 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 주제 : gui로 만든 아파트 관리 프로그램 <br><br>
@@ -30,3 +19,4 @@
           </div>
     </div>
     
+_
